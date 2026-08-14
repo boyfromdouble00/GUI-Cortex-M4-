@@ -3,7 +3,7 @@ chcp 65001 >nul
 cd /d "%~dp0"
 
 echo ================================================
-echo TRAFFIC MOTOR PWM GUI
+echo SMART BARRIER SERVO + ULTRASONIC GUI
 echo ================================================
 echo.
 
