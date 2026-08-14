@@ -1,5 +1,7 @@
 # TrafficMotor FINAL v7 SYSTICK FIX - NUCLEO-F411RE
 
+https://loving-spruce-d3c.notion.site/3bc930b4d58d806a9041daa730388d5a?pvs=73
+
 NUCLEO-F411RE와 PyQt5 GUI를 USB Virtual COM Port로 연결하는 신호등·모터 PWM 프로젝트.
 
 ## 주요 기능
